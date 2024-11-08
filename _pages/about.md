@@ -12,6 +12,5 @@ My research interests include **Spatial-Temporal mining, Time-series mining, and
 
 You can find my CV here: [CV](../assets/Liwei_Deng_CV.pdf).
 
-[Email](mailto:liweidengdavid@gmail.com) / [Github](https://github.com/LiweiDengDavid)
 
 
