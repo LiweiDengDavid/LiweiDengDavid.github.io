@@ -21,7 +21,7 @@ repository               : "LiweiDengDavid/LiweiDengDavid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self-image.png"
+  avatar           : "profile.png"
   name             : "Liwei Deng (邓力玮)"
   pronouns         : # example: "she/her"  
   bio              : "Shenzhen University"
