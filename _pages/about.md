@@ -30,7 +30,7 @@ My research interest includes **Time Series Forecasting** and Federated Learning
 
 # 📝 Publications 
 
-- Xiaobao Song, **Liwei Deng**, Hao Wang* and et al. [Deep Learning-based Time Series Forecasting]({https://doi.org/10.1007/s10462-024-10989-8) published by *Artificial Intelligence Review* (JCR Q1, IF=12.0)
+- Xiaobao Song, **Liwei Deng**, Hao Wang* and et al. [Deep Learning-based Time Series Forecasting](https://doi.org/10.1007/s10462-024-10989-8) published by *Artificial Intelligence Review* (JCR Q1, IF=12.0)
 
 # 📖 Educations
 
