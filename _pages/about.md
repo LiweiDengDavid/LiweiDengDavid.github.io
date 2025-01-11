@@ -38,8 +38,8 @@ My research interest includes **Time Series Forecasting** and Federated Learning
 
 # 💻 Internships
 
-- *2022.09 - 2025.01*, Research Assistant(Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU
-- *2024.10 - Present*, Research Assistant(Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in Sustech
+- *2022.09 - 2025.01*, Research Assistant (Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, SZU
+- *2024.10 - Present*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in Sustech
 
 # 🎖 Honors and Awards
 
