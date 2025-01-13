@@ -30,7 +30,13 @@ My research interest includes **Time Series Forecasting** and Federated Learning
 
 # 📝 Publications 
 
-- Xiaobao Song, **Liwei Deng**, Hao Wang* and et al. [Deep Learning-based Time Series Forecasting](https://doi.org/10.1007/s10462-024-10989-8) published by *Artificial Intelligence Review* (JCR Q1, IF=12.0)
+- Xiaobao Song, **Liwei Deng**, Hao Wang* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
+
+*Under Review:*
+
+- **Liwei Deng**, Hao Wang*, et al., "STD2Vformer: A Flexible Spatial-Temporal Model Based on Temporal and Spatial  Embedding," submitted to *IEEE International Conference on Data Engineering* (CCF A) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF]()
+- **Liwei Deng**, Hao Wang* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *ACM Transactions on Knowledge Discovery from Data* (JCR Q1, CCF B) [Project](https://github.com/LiweiDengDavid/PA2MGCN) [PDF]()
+-  Xiaobao Song, Hao Wang*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on Arxiv [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
 
 # 📖 Educations
 
