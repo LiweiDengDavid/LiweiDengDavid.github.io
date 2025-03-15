@@ -19,14 +19,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is **Liwei Deng**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join @[AAII-UTS](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) as a PhD. Student in July 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
+Hi, My name is **Liwei Deng**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join @[AAII-UTS](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) (Australian Artificial Intelligence Institute, University of Technology Sydney) as a PhD. Student in July 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
 
 My research interest includes **Time Series Forecasting** and **Federated Recommendation**. 
 
 
 # 🔥 News
 
-- *2021.09*: &nbsp;🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
+- *2025.02.22*: &nbsp;🎉🎉 I received my **first** citation on Google Scholar!
+- *2021.09.01*: &nbsp;🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
 
 # 📝 Publications 
 
