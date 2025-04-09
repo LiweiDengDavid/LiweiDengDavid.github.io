@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 
-
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -37,7 +36,7 @@ My research interest includes **Time Series Forecasting** and **Federated Recomm
 
 - **Liwei Deng**, Hao Wang*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Knowledge and Data Engineering* (JCR Q1, CCF A) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
 - **Liwei Deng**, Hao Wang* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *ACM Transactions on Knowledge Discovery from Data* (JCR Q1, CCF B) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
-- Xiaobao Song, Hao Wang*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to*IEEE Transactions on Neural Networks and Learning Systems* [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
+-  Xiaobao Song, Hao Wang*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv* , submitted to *IEEE Transactions on Neural Networks and Learning Systems* [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
 
 # 📖 Educations
 
