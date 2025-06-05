@@ -32,14 +32,14 @@ My research interest includes **Time Series Forecasting** and **Federated Recomm
 # 📝 Publications 
 
 - Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
-- 宋晓宝，**邓力玮**，王浩*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
+- 宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
 
 *Under Review:*
 
 - **Liwei Deng**, Hao Wang\*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Knowledge and Data Engineering* (JCR Q1, CCF A) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
 - **Liwei Deng**, Hao Wang\* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *ACM Transactions on Knowledge Discovery from Data* (JCR Q1, CCF B) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
 - Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* (JCR Q1) [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
-- Shiyao Zhang, **Liwei Deng**, Shuyu Zhang*, Weijie Yuan, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" submitted to *IEEE Robotics and Automation Letters* 
+- Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" submitted to *IEEE Robotics and Automation Letters* 
 
 # 📖 Educations
 
