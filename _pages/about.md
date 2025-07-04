@@ -21,13 +21,14 @@ redirect_from:
 
 Hi, My name is **Liwei Deng**, a senior undergraduate student from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/) (expected graduation in July 2025). I will join [UTS@AAII](https://www.uts.edu.au/research/australian-artificial-intelligence-institute) (University of Technology Sydney, Australian Artificial Intelligence Institute) as a PhD. Student in July 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
 
-My research interest includes **Time Series Forecasting** and **Federated Recommendation**. 
+My research interest includes  **Federated Recommendation** and **Time Series Forecasting**. 
 
 
 # 🔥 News
 
+- *2025.07.01*: &nbsp;🎉🎉 I graduated from Shenzhen University with an **Honors Degree** and received the **Outstanding Graduate award** ！
 - *2025.02.22*: &nbsp;🎉🎉 I received my **first** citation on Google Scholar!
-- *2021.09.01*: &nbsp;🎉🎉 I entered Shenzhen University (SZU) for undergraduate study
+- *2021.09.01*: &nbsp;🎉🎉 I entered Shenzhen University (SZU) for undergraduate study.
 
 # 📝 Publications 
 
@@ -44,7 +45,9 @@ My research interest includes **Time Series Forecasting** and **Federated Recomm
 # 📖 Educations
 
 - Incoming PhD. Student 25'Fall UTS@AAII,  supervised by Prof. Guodong Long.
-- *2021.09 - 2025.07 (now)*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China. 
+- *2021.09 - 2025.07*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China. 
+  -  Graduated with **Honors Degree** 
+  - Awarded **Outstanding Graduate Honor** of SZU
 
 # 💻 Internships
 
@@ -53,7 +56,8 @@ My research interest includes **Time Series Forecasting** and **Federated Recomm
 
 # 🎖 Honors and Awards
 
-- 
+- *2025.07*, **Outstanding Graduate**, Shenzhen University
+- *2025.07*, **Graduated with Honors**, Shenzhen University
 
 # 💬 Invited Talks
 
