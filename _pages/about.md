@@ -37,7 +37,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
+Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
 
 </div>
 </div>
@@ -45,7 +45,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='images/papers/DeepTD-LSP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
+宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
 
 </div>
 </div>
