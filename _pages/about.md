@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is **Liwei Deng** (邓力玮), an undergraduate graduate from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/). I will join [UTS@AAII](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) (University of Technology Sydney, Australian Artificial Intelligence Institute) as a PhD. Student in July 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
+Hi, My name is **Liwei Deng** (邓力玮), an undergraduate graduate from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/). I will join [UTS@AAII](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) (University of Technology Sydney, Australian Artificial Intelligence Institute) as a PhD. Student in September 2025, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
 
 My research interest includes  **Federated Recommendation** and **Time Series Forecasting**. 
 
@@ -61,20 +61,43 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-- Incoming PhD. Student 25'Fall UTS@AAII,  supervised by Prof. Guodong Long.
-- *2021.09 - 2025.07*, *Bachelor of Electronic Information Engineering* in Shenzhen University (SZU), China. 
-  -  Graduated with **Honors Degree** 
-  -  Awarded **Outstanding Graduate Honor** of SZU
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+University of Technology Sydney (UTS)
+
+[Australian Artificial Intelligence Institute | University of Technology Sydney](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute)
+
+- Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](https://guodonglong.github.io/).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Shenzhen University (SZU)
+
+[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)
+
+- Graduated with **Honors Degree**  and Awarded **Outstanding Graduate Honor** of SZU
+- *2021.09 - 2025.07*
+
+</div>
+</div>
 
 # 💻 Internships
 
-- *2022.09 - 2025.01*, Research Assistant (Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, [SZU](https://www.szu.edu.cn/)
-- *2025.1 - 2025.9*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in [Great Bay University](https://www.gbu.edu.cn/)
 - *2025.5 - 2025.9*, Researcher in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
+
   - Supervised by [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910) (Assistant Professor, GBU),  [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/) (Assistant Professor, GBU) and [Guanhua Chen](https://ghchen.me/) (Assistant Professor, [SUSTech](https://www.sustech.edu.cn/zh/about.html))
   - Developed a Retrieval-Augmented Generation (RAG) system for confidential regulatory documents of China Southern Power Grid, ensuring full on-premise deployment without cloud services to guarantee data security.
 
+- *2025.1 - 2025.9*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in [Great Bay University](https://www.gbu.edu.cn/)
+
+- *2022.09 - 2025.01*, Research Assistant (Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, [SZU](https://www.szu.edu.cn/)
+
+  
 
 # 🎖 Honors and Awards
 
