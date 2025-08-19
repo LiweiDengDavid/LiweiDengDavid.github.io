@@ -67,14 +67,8 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<style> .edu-table { width: 100%; border-collapse: collapse; }   .edu-table td { vertical-align: top; padding: 10px 0; }   .logo-col { width: 200px; min-width: 200px; } </style>  
-
-| <img src="/images/school/UTS.png" alt="UTS logo" style="width:200px;"> | University of Technology Sydney (UTS) <br>[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>
-Incoming PhD. Student 25'Fall UTS@AAII, supervised by [Prof. Guodong Long](https://guodonglong.github.io/). | | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| <img src="images/school/SZU.png" alt="SZU logo" style="width:200px;">  | Shenzhen University (SZU) <br>
-[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)<br>
-Graduated with **Honors Degree** and Awarded **Outstanding Graduate Honor** of SZU<br>
-*2021.09 - 2025.07*                                                |
+<table style="width: 100%;">   <tr>     <td style="width: 200px; vertical-align: top;">      
+    <img src="/images/school/UTS.png" alt="UTS logo" style="width: 200px;">     </td>     <td style="vertical-align: top;">       <strong>University of Technology Sydney (UTS)</strong><br>       <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">University of Technology Sydney@Australian Artificial Intelligence Institute</a><br>       Incoming PhD. Student 25'Fall UTS@AAII, supervised by <a href="https://guodonglong.github.io/">Prof. Guodong Long</a>.     </td>   </tr>   <tr>     <td style="width: 200px; vertical-align: top; padding-top: 15px;">       <img src="images/school/SZU.png" alt="SZU logo" style="width: 200px;">     </td>     <td style="vertical-align: top; padding-top: 15px;">       <strong>Shenzhen University (SZU)</strong><br>       <a href="https://ceie.szu.edu.cn/">College of Electronics and Information Engineering</a><br>       Graduated with <strong>Honors Degree</strong> and Awarded <strong>Outstanding Graduate Honor</strong> of SZU<br>       *2021.09 - 2025.07*     </td>   </tr> </table>
 
 # 💻 Internships
 
