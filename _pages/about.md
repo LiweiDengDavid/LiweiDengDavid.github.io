@@ -34,7 +34,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 \* Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -43,7 +43,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='images/papers/DeepTD-LSP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -61,7 +61,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="600" height="600"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="400" height="400"></div></div>
 <div class='paper-box-text' markdown="1">
 
 University of Technology Sydney (UTS)
