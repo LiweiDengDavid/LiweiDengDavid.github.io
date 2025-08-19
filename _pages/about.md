@@ -35,7 +35,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 \* Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='/images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -46,7 +46,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='/images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -80,7 +80,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
   </tr>
   <tr>
     <td style="border: none; vertical-align: middle;">
-      <img src="images/school/SZU.png" alt="SZU logo" style="width:200px; vertical-align: middle;">
+      <img src="/images/school/SZU.png" alt="SZU logo" style="width:200px; vertical-align: middle;">
     </td>
     <td style="border: none; vertical-align: middle;">
       Shenzhen University (SZU) <br>
