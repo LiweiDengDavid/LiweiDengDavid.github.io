@@ -61,7 +61,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 University of Technology Sydney (UTS)
@@ -73,7 +73,7 @@ Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](http
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="400" height="400"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Shenzhen University (SZU)
