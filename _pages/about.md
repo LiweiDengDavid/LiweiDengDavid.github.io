@@ -96,7 +96,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 - *2025.5 - 2025.9*, Researcher in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
 
   - Supervised by [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910) (Assistant Professor, GBU),  [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/) (Assistant Professor, GBU) and [Guanhua Chen](https://ghchen.me/) (Assistant Professor, [SUSTech](https://www.sustech.edu.cn/zh/about.html))
-  - Developed a Retrieval-Augmented Generation (RAG) system for confidential regulatory documents of China Southern Power Grid, ensuring full on-premise deployment without cloud services to guarantee data security.
+  - Developed a RAG system and LLMs locally
 
 - *2025.1 - 2025.9*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in [Great Bay University](https://www.gbu.edu.cn/)
 
