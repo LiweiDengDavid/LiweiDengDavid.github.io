@@ -66,6 +66,25 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
+```markdown
+<style>
+  /* 隐藏所有表格边框和分隔线 */
+  table {
+    border: 0 !important;
+    border-spacing: 0 !important;
+    border-collapse: collapse !important;
+  }
+  table tr, table td {
+    border: none !important;
+    outline: none !important;
+  }
+  /* 移除Markdown表格默认的分隔线样式 */
+  table tr:after {
+    content: none !important;
+  }
+</style>
+```
+
 |<img src="/images/school/UTS.png" alt="UTS logo" style="width:200px;">|University of Technology Sydney (UTS) <br>[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](https://guodonglong.github.io/).
 
 |<img src="images/school/SZU.png" alt="SZU logo" style="width:200px;">|Shenzhen University (SZU) <br>[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)<br>Graduated with **Honors Degree**  and Awarded **Outstanding Graduate Honor** of SZU<br>*2021.09 - 2025.07*
