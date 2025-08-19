@@ -35,7 +35,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 \* Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="sym" width="600" height="600"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -66,35 +66,9 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="/images/school/UTS.png" alt="UTS logo" style="width: 200px; margin-right: 20px;">
-  <div>
+|<img src="/images/school/UTS.png" alt="UTS logo" style="width:200px;">|University of Technology Sydney (UTS) <br>[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](https://guodonglong.github.io/).  
 
-University of Technology Sydney (UTS)
-
-[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) 
-
-Incoming PhD. Student 25'Fall UTS@AAII, supervised by [Prof. Guodong Long](https://guodonglong.github.io/).
-
-</div>
-</div>
-
-<div style="display: flex; align-items: center; margin: 20px 0;">
-  <img src="images/school/SZU.png" alt="SZU logo" style="width: 200px; margin-right: 20px;">
-  <div>
-
-
-
-Shenzhen University (SZU)
-
-[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)
-
-Graduated with **Honors Degree** and Awarded **Outstanding Graduate Honor** of SZU
-
-*2021.09 - 2025.07*  
-
-</div>
-</div>      
+|<img src="images/school/SZU.png" alt="SZU logo" style="width:200px;">|Shenzhen University (SZU) <br>[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)<br>Graduated with **Honors Degree**  and Awarded **Outstanding Graduate Honor** of SZU<br>*2021.09 - 2025.07*
 
 # 💻 Internships
 
