@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 
 
-
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
