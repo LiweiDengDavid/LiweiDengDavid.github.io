@@ -67,7 +67,9 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<div style="margin-bottom: 10px;">   <img src="/images/school/UTS.png" alt="UTS logo" style="width: 200px; vertical-align: middle;">   <span style="margin-left: 10px; vertical-align: middle;">     <strong>University of Technology Sydney (UTS)</strong><br>     <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">University of Technology Sydney@Australian Artificial Intelligence Institute</a><br>     Incoming PhD. Student 25'Fall UTS@AAII, supervised by <a href="https://guodonglong.github.io/">Prof. Guodong Long</a>.   </span> </div> <div>   <img src="images/school/SZU.png" alt="SZU logo" style="width: 200px; vertical-align: middle;">   <span style="margin-left: 10px; vertical-align: middle;">     <strong>Shenzhen University (SZU)</strong><br>     <a href="https://ceie.szu.edu.cn/">College of Electronics and Information Engineering</a><br>     Graduated with Honors Degree and Awarded Outstanding Graduate Honor of SZU<br>     <i>2021.09 - 2025.07</i>   </span> </div>
+| <img src="/images/school/UTS.png" alt="UTS logo" width="200" align="top"> | University of Technology Sydney (UTS) <br>[UTS@AAII](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>Incoming PhD. Student 25'Fall UTS@AAII, supervised by [Prof. Guodong Long](https://guodonglong.github.io/) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="images/school/SZU.png" alt="SZU logo" width="200" align="top"> | Shenzhen University (SZU) <br>[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)<br>Graduated with **Honors Degree** and Awarded **Outstanding Graduate Honor** of SZU<br><em>2021.09 - 2025.07</em> |
 
 # 💻 Internships
 
