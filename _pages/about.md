@@ -67,8 +67,29 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-| <img src="/images/school/UTS.png" alt="UTS logo" style="width:200px; vertical-align: middle;"> | University of Technology Sydney (UTS) <br>[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>Incoming PhD. Student 25'Fall UTS@AAII, supervised by [Prof. Guodong Long](https://guodonglong.github.io/). |
-| <img src="images/school/SZU.png" alt="SZU logo" style="width:200px; vertical-align: middle;"> | Shenzhen University (SZU) <br>[College of Electronics and Information Engineering](https://ceie.szu.edu.cn/)<br>Graduated with **Honors Degree** and Awarded **Outstanding Graduate Honor** of SZU<br>*2021.09 - 2025.07* |
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="/images/school/UTS.png" alt="UTS logo" style="width:200px; vertical-align: middle;">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      University of Technology Sydney (UTS) <br>
+      <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">University of Technology Sydney@AAII</a> <br>
+      Incoming PhD. Student 25'Fall UTS@AAII, supervised by <a href="https://guodonglong.github.io/">Prof. Guodong Long</a>.
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; vertical-align: middle;">
+      <img src="images/school/SZU.png" alt="SZU logo" style="width:200px; vertical-align: middle;">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      Shenzhen University (SZU) <br>
+      <a href="https://ceie.szu.edu.cn/">College of Electronics and Information Engineering</a> <br>
+      Graduated with <b>Honors Degree</b> and Awarded <b>Outstanding Graduate Honor</b> of SZU <br>
+      <i>2021.09 - 2025.07</i>
+    </td>
+  </tr>
+</table>
 
 # 💻 Internships
 
