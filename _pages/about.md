@@ -62,6 +62,10 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 - Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* (JCR Q1) [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
 - Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" submitted to *IEEE Robotics and Automation Letters* 
 
+
+
+|<img src="images/school/UTS.png" alt="Meta logo" style="width:200px;">|University of Technology Sydney (UTS) <br>[University of Technology Sydney@Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) <br>Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](https://guodonglong.github.io/).
+
 # 📖 Educations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="400px" height="400px"></div></div>
@@ -76,6 +80,8 @@ Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](http
 
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="400px" height="400px"></div></div>
 <div class='paper-box-text' markdown="1">
