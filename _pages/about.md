@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -38,6 +39,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box-text' markdown="1">
 
 
+
 Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
 
 </div>
@@ -45,6 +47,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
@@ -61,8 +64,9 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="300px" height="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/UTS.png' alt="sym" width="400px" height="400px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 University of Technology Sydney (UTS)
 
@@ -73,8 +77,9 @@ Incoming PhD. Student 25'Fall UTS@AAII,  supervised by [Prof. Guodong Long](http
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="300px" height="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/school/SZU.png' alt="sym" width="400px" height="400px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Shenzhen University (SZU)
 
