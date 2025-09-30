@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 
 
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -38,8 +39,6 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box-text' markdown="1">
 
 
-
-
 Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)
 
 </div>
@@ -49,18 +48,25 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 <div class='paper-box-text' markdown="1">
 
 
-
 宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='/images/papers/SAC-GRU.png' alt="sym" width="600" height="600"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan\*, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" accepted by *IEEE Robotics and Automation Letters* (RA-L) [PDF]()
 
 </div>
 </div>
 
 *Under Review:*
 
-- **Liwei Deng**, Hao Wang\*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Knowledge and Data Engineering* (JCR Q1, CCF A) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
-- **Liwei Deng**, Hao Wang\* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *ACM Transactions on Knowledge Discovery from Data* (JCR Q1, CCF B) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
+- **Liwei Deng**, Hao Wang\*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
+- **Liwei Deng**, Hao Wang\* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
 - Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* (JCR Q1) [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
-- Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" submitted to *IEEE Robotics and Automation Letters* 
 
 
 
@@ -90,18 +96,24 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
   </tr>
 </table>
 
+
 # 💻 Internships
 
-- *2025.5 - 2025.9*, Researcher in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
+- *2025.10 - present*, *Research Assistant* in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
+  - Supervised by Assistant Professor [Yuxuan Liang](https://yuxuanliang.com/)
 
+- *2025.5 - 2025.9*, *Researcher* in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
   - Supervised by [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910) (Assistant Professor, GBU),  [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/) (Assistant Professor, GBU) and [Guanhua Chen](https://ghchen.me/) (Assistant Professor, [SUSTech](https://www.sustech.edu.cn/zh/about.html))
   - Developed a RAG system and LLMs locally
 
-- *2025.1 - 2025.9*, Research Assistant (Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)) in [Great Bay University](https://www.gbu.edu.cn/)
+- *2025.1 - 2025.9*, *Visiting Student* in [Great Bay University](https://www.gbu.edu.cn/)
 
-- *2022.09 - 2025.01*, Research Assistant (Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)) in Guangdong Multimedia Information Service Engineering Technology Research Center, [SZU](https://www.szu.edu.cn/)
+  - Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/)
 
-  
+- *2022.09 - 2025.01*, *Research Assistant* in [Shenzhen University](https://www.szu.edu.cn/)
+
+  - Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)
+
 
 # 🎖 Honors and Awards
 
