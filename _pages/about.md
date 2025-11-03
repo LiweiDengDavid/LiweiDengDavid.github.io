@@ -44,15 +44,6 @@ Xiaobao Song, **Liwei Deng**, Hao Wang\* and et al. "Deep Learning-based Time Se
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='/images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='/images/papers/SAC-GRU.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,11 +53,21 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan\*, and Hong Zhang, "Unv
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='/images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+宋晓宝，**邓力玮**，王浩\*等人 "基于深度学习和时序拆解的长期时序预测模型" accepted by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSazAlqPuLLkyTgVq1fc1SlFB14zSE-J91aca_AUN3X6a2ycyNFYYZB4uSAej03jHM2S4O-QeW0VvRgdFPpfe1b3rLPcdZjxk80470mEa4mqD7y0g2Bn-ze8v_EkARyt8XEehlMA-2cnBioBNYhly9xwFI-Agmpj_B6ik9HZbYA91pQ==&uniplatform=NZKPT&language=CHS)
+
+</div>
+</div>
+
 *Under Review:*
 
 - **Liwei Deng**, Hao Wang\*, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," submitted to *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
 - **Liwei Deng**, Hao Wang\* and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
-- Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* (JCR Q1) [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
+- Xiaobao Song, Hao Wang\*, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding" has been published on *Arxiv*, submitted to *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS) (JCR Q1) [Project](https://github.com/TCCofWANG/D2Vformer) [PDF](https://doi.org/10.48550/arXiv.2409.11024)
 
 
 
@@ -100,7 +101,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang\*, Weijie Yuan\*, and Hong Zhang, "Unv
 # 💻 Internships
 
 - *2025.10 - present*, *Research Assistant* in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
-  - Supervised by Assistant Professor [Yuxuan Liang](https://yuxuanliang.com/)
+  - Supervised by Assistant Professor [Yuxuan Liang](https://yuxuanliang.com/), working close with Dr. [‪Qingxiang Liu‬‬](https://scholar.google.com/citations?user=f1_Rw48AAAAJ&hl=zh-CN)
 - *2025.5 - 2025.9*, *Researcher* in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
   - Supervised by [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910) (Assistant Professor, GBU),  [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/) (Assistant Professor, GBU) and [Guanhua Chen](https://ghchen.me/) (Assistant Professor, [SUSTech](https://www.sustech.edu.cn/zh/about.html))
   - Developed a RAG system and LLMs locally
