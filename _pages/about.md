@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 
 
-
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -33,12 +32,12 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 # 📝 Publications 
 
-\* equal contribution; <sup>&dagger;</sup> Corresponding author
+\* equal contribution; $^\dagger$ Corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
+**Liwei Deng**, Hao Wang$^\dagger$, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) 
 
 </div>
 </div>
@@ -46,8 +45,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='./images/papers/D2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS) (JCR Q1) [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
+Xiaobao Song, Hao Wang$^\dagger$, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS) (JCR Q1) [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
 
 </div>
 </div>
@@ -55,8 +53,7 @@ Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='./images/papers/SAC-GRU.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&dagger;</sup>, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" published by *IEEE Robotics and Automation Letters* (RA-L) [PDF](https://ieeexplore.ieee.org/document/11204522)
+Shiyao Zhang, **Liwei Deng**, Shuyu Zhang$^\dagger$, Weijie Yuan$^\dagger$, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" published by *IEEE Robotics and Automation Letters* (RA-L) [PDF](https://ieeexplore.ieee.org/document/11204522)
 
 </div>
 </div>
@@ -64,8 +61,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='./images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 50+**)
+Xiaobao Song, **Liwei Deng**, Hao Wang$^\dagger$ and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 50+**)
 
 </div>
 </div>
@@ -73,15 +69,14 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='./images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-宋晓宝，**邓力玮**，王浩<sup>&dagger;</sup>等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSazAlqPuLLkyTgVq1fc1SlFB14zSE-J91aca_AUN3X6a2ycyNFYYZB4uSAej03jHM2S4O-QeW0VvRgdFPpfe1b3rLPcdZjxk80470mEa4mqD7y0g2Bn-ze8v_EkARyt8XEehlMA-2cnBioBNYhly9xwFI-Agmpj_B6ik9HZbYA91pQ==&uniplatform=NZKPT&language=CHS)
+宋晓宝，**邓力玮**，王浩$^\dagger$等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSazAlqPuLLkyTgVq1fc1SlFB14zSE-J91aca_AUN3X6a2ycyNFYYZB4uSAej03jHM2S4O-QeW0VvRgdFPpfe1b3rLPcdZjxk80470mEa4mqD7y0g2Bn-ze8v_EkARyt8XEehlMA-2cnBioBNYhly9xwFI-Agmpj_B6ik9HZbYA91pQ==&uniplatform=NZKPT&language=CHS)
 
 </div>
 </div>
 
 *Under Review:*
 
-- **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
+- **Liwei Deng**, Hao Wang$^\dagger$ and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
 
 
 
@@ -110,7 +105,6 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
     </td>
   </tr>
 </table>
-
 
 
 # 💻 Internships
