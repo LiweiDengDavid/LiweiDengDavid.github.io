@@ -42,7 +42,8 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='./images/papers/D2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
-
+</div>
+</div>
 
 Xiaobao Song, Hao Wang$^\dagger$, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS) (JCR Q1) [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
 
