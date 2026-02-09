@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liwei Deng / Personal Homepage"
-description              : "Senior undergraduate student @SZU"
+description              : "Year 1 PhD. Student on UTS@AAAI"
 repository               : "LiweiDengDavid/LiweiDengDavid.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liwei Deng"
-  avatar           : "images/image.png"
-  bio              : "Shenzhen University"
-  location         : "Shenzhen, China"
+  avatar           : "./images/image.png"
+  bio              : "University of Technology Sydney (UTS)"
+  location         : "Sydney, Australia & Shenzhen, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=KFB6PKcAAAAJ&hl=zh-CN"
