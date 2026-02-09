@@ -26,7 +26,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 
 # 🔥 News
 
-<details>
+<details markdown="1">
 <summary><strong>📌 News</strong> (click to expand)</summary>
 
 
