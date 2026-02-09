@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liwei Deng"
-  avatar           : "./images/image.png"
+  avatar           : "images/image.jpeg"
   bio              : "University of Technology Sydney (UTS)"
   location         : "Sydney, Australia"
   employer         : #"Hefei General Machinery Research Institute"
