@@ -19,9 +19,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is **Liwei Deng** (邓力玮), an undergraduate graduate from [Shenzhen University](https://www.szu.edu.cn/), majoring in [Electronic Information Engineering](https://ceie.szu.edu.cn/). I will join [UTS@AAII](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute) (University of Technology Sydney, Australian Artificial Intelligence Institute) as a PhD. Student in April 2026, supervised by Prof. [Guodong Long](https://guodonglong.github.io/).
+Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute), [University of Technology Sydney (UTS)](https://www.uts.edu.au/), supervised by Prof. [Guodong Long](https://guodonglong.github.io/). 
 
-My research interest includes  **Federated Recommendation** and **Time Series Forecasting**. 
+Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
+
+My research interests include **Federated Recommendation** and **Time Series Forecasting**. 
+
+<!-- <div style="display: flex; gap: 10px;">
+  <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
+    <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by">
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
+    <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=h-index&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="H-index">
+  </a>
+</div>
+<br> -->
+
 
 
 # 🔥 News
@@ -47,7 +60,7 @@ My research interest includes  **Federated Recommendation** and **Time Series Fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF]()
+**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
 
 </div>
 </div>
@@ -71,7 +84,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='./images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 60+**)
+Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 70+**)
 
 </div>
 </div>
@@ -100,9 +113,9 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
     </td>
     <td style="border: none; vertical-align: middle;">
       University of Technology Sydney (UTS) <br>
-      <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">University of Technology Sydney@AAII</a> <br>
-      Year 1 PhD. Student on UTS@AAAI, supervised by <a href="https://guodonglong.github.io/">Prof. Guodong Long</a>. <br>
-      <i>2026.04 - 2029.07 (expect)</i>
+      <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">Australian Artificial Intelligence Institute (AAII)</a> <br>
+      PhD. Student, supervised by <a href="https://guodonglong.github.io/">Prof. Guodong Long</a>. <br>
+      <i>2026.04 - Present</i>
     </td>
   </tr>
   <tr>
@@ -121,15 +134,18 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 
 # 💻 Internships
 
-- *2025.10 - 2026.4*, *Research Assistant* in [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
-  - Supervised by Assistant Professor [Yuxuan Liang](https://yuxuanliang.com/), working close with Dr. [Qingxiang Liu](https://scholar.google.com/citations?user=f1_Rw48AAAAJ&hl=zh-CN)
-- *2025.5 - 2025.9*, *Researcher* in [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
-  - Supervised by [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910) (Assistant Professor, GBU),  [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/) (Assistant Professor, GBU) and [Guanhua Chen](https://ghchen.me/) (Assistant Professor, [SUSTech](https://www.sustech.edu.cn/zh/about.html))
-  - Developed a RAG system and LLMs locally
-- *2024.9 - 2025.9*, *Visiting Student* in [Great Bay University](https://www.gbu.edu.cn/)
-  - Supervised by Assistant Professor [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/), working close with Dr. [Shuyu Zhang](https://lionelsy.github.io/)
-- *2022.09 - 2025.01*, *Research Assistant* in [Shenzhen University](https://www.szu.edu.cn/)
-- Supervised by Assistant Professor [Hao Wang](https://tccofwang.github.io/index.html)
+- *2025.10 - 2026.04*, **Research Assistant**, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
+  - Supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/), and worked closely with Dr. [Qingxiang Liu](https://scholar.google.com/citations?user=f1_Rw48AAAAJ&hl=zh-CN).
+
+- *2025.05 - 2025.09*, **Research Intern**, [China Southern Power Grid Co., Ltd](https://www.csg.cn/) & [Great Bay University (GBU)](https://www.gbu.edu.cn/)
+  - Supervised by Prof. [Kaixuan Qiu](https://www.gbu.edu.cn/detail/article/910), Prof. [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/), and Prof. [Guanhua Chen](https://ghchen.me/).
+  - Topic: RAG system and LLM application development.
+
+- *2024.09 - 2025.09*, **Visiting Student**, [Great Bay University](https://www.gbu.edu.cn/)
+  - Supervised by Prof. [Shiyao Zhang](https://jasonzhangs001.github.io/shiyaozhang/), and worked closely with Dr. [Shuyu Zhang](https://lionelsy.github.io/).
+
+- *2022.09 - 2025.01*, **Research Assistant**, [Shenzhen University](https://www.szu.edu.cn/)
+  - Supervised by Prof. [Hao Wang](https://tccofwang.github.io/index.html).
 
 
 # 🎖 Honors and Awards
