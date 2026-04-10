@@ -43,7 +43,7 @@ My research interests include **Federated Recommendation** and **Time Series For
 <summary><strong>📌 News</strong> (click to expand)</summary>
 
 
-- **2026.04.08** 🎉🎉  Excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
+- **2026.04.08** 🎉🎉  I was excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
 - **2026.01.15** 🎉🎉  I was granted my student **visa** and will commence my PhD studies at the UTS in April 2026.
 - **2025.07.01** 🎉🎉  I graduated from Shenzhen University with an **Honors Degree** and received the **Outstanding Graduate Award**.
 - **2025.02.22** 🎉🎉  I received my **first citation** on Google Scholar.
