@@ -43,12 +43,10 @@ My research interests include **Federated Recommendation** and **Time Series For
 <summary><strong>📌 News</strong> (click to expand)</summary>
 
 
+- **2026.04.08** 🎉🎉  Excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
 - **2026.01.15** 🎉🎉  I was granted my student **visa** and will commence my PhD studies at the UTS in April 2026.
-  
 - **2025.07.01** 🎉🎉  I graduated from Shenzhen University with an **Honors Degree** and received the **Outstanding Graduate Award**.
-  
 - **2025.02.22** 🎉🎉  I received my **first citation** on Google Scholar.
-  
 - **2021.09.01** 🎉🎉  I began my undergraduate studies at Shenzhen University (SZU).
 
 </details>
@@ -60,7 +58,7 @@ My research interests include **Federated Recommendation** and **Time Series For
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) (JCR Q1) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
+**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
 
 </div>
 </div>
@@ -68,7 +66,7 @@ My research interests include **Federated Recommendation** and **Time Series For
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='./images/papers/D2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS) (JCR Q1) [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
+Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS)  [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
 
 </div>
 </div>
@@ -84,7 +82,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='./images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review* (JCR Q1, IF=12.0) [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 70+**)
+Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review*  [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) (**Citations: 90+**)
 
 </div>
 </div>
@@ -100,7 +98,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 *Under Review:*
 
 - **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
-- **Liwei Deng**, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM)
+- **Liwei Deng**, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM) [PDF](https://arxiv.org/abs/2604.04475)
 
 
 
