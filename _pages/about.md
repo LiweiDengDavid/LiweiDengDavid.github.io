@@ -23,7 +23,7 @@ Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australi
 
 Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
 
-My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLiweiDengDavid%2FLiweiDengDavid.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
+My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/badge/citations-102-blue?logo=google-scholar)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
 <!-- <div style="display: flex; gap: 10px;">
   <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
     <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by">
