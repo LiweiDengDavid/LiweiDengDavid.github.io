@@ -23,7 +23,7 @@ Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australi
 
 Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
 
-My research interests include **Federated Recommendation** and **Time Series Forecasting**. 
+My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fapi%2Fcitations%3Fuser%3DKFB6PKcAAAAJ)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
 
 <!-- <div style="display: flex; gap: 10px;">
   <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
@@ -35,7 +35,7 @@ My research interests include **Federated Recommendation** and **Time Series For
 </div>
 <br> -->
 
-
+​	
 
 # 🔥 News
 
@@ -43,6 +43,7 @@ My research interests include **Federated Recommendation** and **Time Series For
 <summary><strong>📌 News</strong> (click to expand)</summary>
 
 
+- **2026.04.22** 🎉🎉  My Google Scholar citations have reached **100**! Thanks to all the researchers for their interest in our work.
 - **2026.04.08** 🎉🎉  I was excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
 - **2026.01.15** 🎉🎉  I was granted my student **visa** and will commence my PhD studies at the UTS in April 2026.
 - **2025.07.01** 🎉🎉  I graduated from Shenzhen University with an **Honors Degree** and received the **Outstanding Graduate Award**.
