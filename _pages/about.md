@@ -23,7 +23,7 @@ Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australi
 
 Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
 
-My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/badge/citations-102-blue?logo=google-scholar)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
+My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/badge/citations-110-blue?logo=google-scholar)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
 <!-- <div style="display: flex; gap: 10px;">
   <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
     <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by">
@@ -90,7 +90,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='./images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-宋晓宝，**邓力玮**，王浩<sup>&dagger;</sup>等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](https://kns.cnki.net/kcms2/article/abstract?v=3-fZNjprSazAlqPuLLkyTgVq1fc1SlFB14zSE-J91aca_AUN3X6a2ycyNFYYZB4uSAej03jHM2S4O-QeW0VvRgdFPpfe1b3rLPcdZjxk80470mEa4mqD7y0g2Bn-ze8v_EkARyt8XEehlMA-2cnBioBNYhly9xwFI-Agmpj_B6ik9HZbYA91pQ==&uniplatform=NZKPT&language=CHS)
+宋晓宝，**邓力玮**，王浩<sup>&dagger;</sup>等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](http://cea.ceaj.org/CN/10.3778/j.issn.1002-8331.2408-0176)
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 *Under Review:*
 
 - **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
-- **Liwei Deng**, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM) [PDF](https://arxiv.org/abs/2604.04475)
+- **Liwei Deng**\*, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM) [PDF](https://arxiv.org/abs/2604.04475)
 
 
 
