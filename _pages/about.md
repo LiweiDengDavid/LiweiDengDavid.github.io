@@ -23,7 +23,7 @@ Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australi
 
 Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
 
-My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/badge/citations-116-blue?logo=google-scholar)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
+My research interests include **Recommendation System** and **Time Series Forecasting**. [![Citations](https://img.shields.io/badge/citations-119-blue?logo=google-scholar)](https://scholar.google.com/citations?user=KFB6PKcAAAAJ&hl=en)
 <!-- <div style="display: flex; gap: 10px;">
   <a href="https://scholar.google.com/citations?user=YOUR_User_ID">
     <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by">
@@ -57,7 +57,7 @@ My research interests include **Recommendation System** and **Time Series Foreca
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
-**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Prediction-length-agnostic Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
+**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Free-Form Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
 
 </div>
 </div>
