@@ -9,7 +9,7 @@
 title                    : "Liwei Deng / Personal Homepage"
 description              : "Year 1 PhD. Student on UTS@AAII"
 repository               : "LiweiDengDavid/LiweiDengDavid.github.io"
-google_scholar_stats_use_cdn : True
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

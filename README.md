@@ -35,8 +35,8 @@ Some examples:
 1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+    1. Set `GOOGLE_SCHOLAR_ID` in `.github/workflows/google_scholar_crawler.yaml` to that ID. A Google Scholar ID is public, so it does not need to be stored as a repository secret.
+    1. Enable the workflow on the repository's **Actions** page. It can be run manually and runs automatically every day at 08:17 UTC. It writes `gs_data.json` and the badge endpoint data to the `google-scholar-stats` branch.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:
     1. `title`: the title of your homepage
@@ -48,9 +48,9 @@ Some examples:
     1. More configuration details are described in the comments.
 1. Add your homepage content in `_pages/about.md`.
     1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data-paper-id` to display the citations of your paper. Set the attribute to the Google Scholar paper ID. For example:
         ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        <span class="show_paper_citations" data-paper-id="DhtAFkwAAAAJ:ALROH1vI_8AC"></span>
         ``` 
         > Q: How to get the google scholar paper ID?   
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
