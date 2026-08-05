@@ -54,7 +54,7 @@ My research interests include **Recommendation System** and **Time Series Foreca
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
-**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Free-Form Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)<span class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:Tyk-4Ss8FVUC"></span>
+**Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Free-Form Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
 
 </div>
 </div>
@@ -62,7 +62,7 @@ My research interests include **Recommendation System** and **Time Series Foreca
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='./images/papers/D2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS)  [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)<span class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:d1gkVwhDpl0C"></span>
+Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A Flexible Time Series Prediction Model Based on Time Position Embedding"  published by *IEEE Transactions on Neural Networks and Learning Systems* (TNNLS)  [Project](https://github.com/TeamofHaoWang/D2Vformer) [PDF](https://ieeexplore.ieee.org/document/11277393) [中文解读](https://mp.weixin.qq.com/s/6v5dryjE4lk4nlFWeMz-JA)
 
 </div>
 </div>
@@ -70,7 +70,7 @@ Xiaobao Song, Hao Wang<sup>&dagger;</sup>, **Liwei Deng**, et al.,"D2Vformer: A 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025 & ICRA 2026</div><img src='./images/papers/SAC-GRU.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&dagger;</sup>, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" published by *IEEE Robotics and Automation Letters* (RA-L) [PDF](https://ieeexplore.ieee.org/document/11204522)<span class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:2osOgNQ5qMEC"></span>
+Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&dagger;</sup>, and Hong Zhang, "Unveiling Uncertainty-Aware Autonomous Cooperative Learning Based Planning Strategy" published by *IEEE Robotics and Automation Letters* (RA-L) [PDF](https://ieeexplore.ieee.org/document/11204522)
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='./images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review*  [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8)<span class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:u-x6o8ySG0sC"></span>
+Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review*  [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=KFB6PKcAAAAJ&amp;citation_for_view=KFB6PKcAAAAJ:u-x6o8ySG0sC"><img class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:u-x6o8ySG0sC" alt="Google Scholar citations" style="display: none;"></a>
 
 </div>
 </div>
@@ -86,7 +86,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机工程与应用 2024</div><img src='./images/papers/DeepTD-LSP.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-宋晓宝，**邓力玮**，王浩<sup>&dagger;</sup>等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](http://cea.ceaj.org/CN/10.3778/j.issn.1002-8331.2408-0176)<span class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:qjMakFHDy7sC"></span>
+宋晓宝，**邓力玮**，王浩<sup>&dagger;</sup>等人 "基于深度学习和时序拆解的长期时序预测模型" published by *计算机工程与应用* (北大核心) [Project](https://github.com/TCCofWANG/Deep_Time_Series) [PDF](http://cea.ceaj.org/CN/10.3778/j.issn.1002-8331.2408-0176)
 
 </div>
 </div>
