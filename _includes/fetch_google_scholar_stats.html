@@ -5,7 +5,7 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
         {% endif %}
-        var dataUrl = gsDataBaseUrl + 'google-scholar-stats/gs_data.json';
+        var dataUrl = gsDataBaseUrl + 'google-scholar-stats/gs_data.json?v=' + Date.now();
 
         $.getJSON(dataUrl, function (data) {
             var totalCitation = document.getElementById('total_cit');
@@ -18,7 +18,12 @@
                 var paperId = element.getAttribute('data-paper-id');
                 var publication = data.publications && data.publications[paperId];
                 if (publication && publication.num_citations !== undefined) {
-                    element.textContent = ' | Citations: ' + publication.num_citations;
+                    var badgeUrl = 'https://img.shields.io/badge/Cited%20by-' +
+                        encodeURIComponent(publication.num_citations) +
+                        '-9cf?logo=google-scholar&labelColor=f6f6f6&style=flat&logoColor=blue';
+                    element.setAttribute('src', badgeUrl);
+                    element.setAttribute('alt', 'Cited by ' + publication.num_citations);
+                    element.style.display = 'inline-block';
                 }
             });
         }).fail(function () {

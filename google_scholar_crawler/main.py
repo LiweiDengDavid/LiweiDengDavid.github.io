@@ -38,7 +38,7 @@ shields_io_data = {
     "schemaVersion": 1,
     "label": "citations",
     "message": str(author["citedby"]),
-    "cacheSeconds": 3600,
+    "cacheSeconds": 300,
 }
 with (output_dir / "gs_data_shieldsio.json").open(
     "w", encoding="utf-8"
