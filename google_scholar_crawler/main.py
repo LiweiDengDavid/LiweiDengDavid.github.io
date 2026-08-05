@@ -3,12 +3,23 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from scholarly import scholarly
+from scholarly import ProxyGenerator, scholarly
 
 
 scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID", "").strip()
 if not scholar_id:
     raise RuntimeError("GOOGLE_SCHOLAR_ID is required")
+
+scraper_api_key = os.environ.get("SCRAPER_API_KEY", "").strip()
+if scraper_api_key:
+    proxy_generator = ProxyGenerator()
+    if not proxy_generator.ScraperAPI(scraper_api_key):
+        raise RuntimeError("SCRAPER_API_KEY could not initialize ScraperAPI")
+    scholarly.use_proxy(proxy_generator, proxy_generator)
+    print("Using ScraperAPI for Google Scholar requests.")
+
+scholarly.set_timeout(10)
+scholarly.set_retries(2)
 
 author = scholarly.search_author_id(scholar_id)
 author = scholarly.fill(
