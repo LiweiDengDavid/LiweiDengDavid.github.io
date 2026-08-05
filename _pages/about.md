@@ -24,13 +24,7 @@ Hi, I am **Liwei Deng** (邓力玮), a first-year Ph.D. student at the [Australi
 
 Previously, I received my B.Eng. degree (with **Honors**) from the [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University (SZU)](https://www.szu.edu.cn/) in 2025. 
 
-My research interests include **Recommendation System** and **Time Series Forecasting**.
-
-<div>
-  <a href="{{ site.author.googlescholar }}">
-    <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by">
-  </a>
-</div>
+My research interests include **Recommendation System** and **Time Series Forecasting**. <a href="{{ site.author.googlescholar }}"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=google-scholar&label=Cited%20by&labelColor=f6f6f6&color=9cf&style=flat&logoColor=blue" alt="Cited by" style="vertical-align: middle;"></a>
 
 ​	
 
@@ -79,7 +73,7 @@ Shiyao Zhang, **Liwei Deng**, Shuyu Zhang<sup>&dagger;</sup>, Weijie Yuan<sup>&d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Intelligence Review 2024</div><img src='./images/papers/Time Series Survey.png' alt="survey" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review*  [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) [PDF](https://doi.org/10.1007/s10462-024-10989-8) <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=KFB6PKcAAAAJ&amp;citation_for_view=KFB6PKcAAAAJ:u-x6o8ySG0sC"><img class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:u-x6o8ySG0sC" alt="Google Scholar citations" style="display: none;"></a>
+Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learning-based Time Series Forecasting" published by *Artificial Intelligence Review*  [Project](https://github.com/TCCofWANG/Deep-Learning-based-Time-Series-Forecasting) <span style="display: inline-flex; align-items: center; gap: 4px; white-space: nowrap;"><a href="https://doi.org/10.1007/s10462-024-10989-8">PDF</a><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=KFB6PKcAAAAJ&amp;citation_for_view=KFB6PKcAAAAJ:u-x6o8ySG0sC"><img class="show_paper_citations" data-paper-id="KFB6PKcAAAAJ:u-x6o8ySG0sC" alt="Google Scholar citations" style="display: none; vertical-align: middle;"></a></span>
 
 </div>
 </div>
