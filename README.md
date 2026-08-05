@@ -36,6 +36,7 @@ Some examples:
 1. Configure the google scholar citation crawler:
     1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
     1. Set `GOOGLE_SCHOLAR_ID` in `.github/workflows/google_scholar_crawler.yaml` to that ID. A Google Scholar ID is public, so it does not need to be stored as a repository secret.
+    1. For reliable runs on GitHub-hosted runners, add a repository Actions secret named `SCRAPER_API_KEY` with your ScraperAPI key. Without it, the workflow still tries a direct request, but Google may reject the shared runner IP; the workflow then keeps the existing citation data and reports a warning instead of failing.
     1. Enable the workflow on the repository's **Actions** page. It can be run manually and runs automatically every day at 08:17 UTC. It writes `gs_data.json` and the badge endpoint data to the `google-scholar-stats` branch.
 1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
 1. Modify the configuration of your homepage `_config.yml`:

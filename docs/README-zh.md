@@ -38,6 +38,7 @@ AcadHomepage
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在`.github/workflows/google_scholar_crawler.yaml`中将`GOOGLE_SCHOLAR_ID`设为该ID。Google Scholar ID是公开信息，无需存入仓库Secret。
+    1. 为了让GitHub托管runner上的抓取更稳定，建议在仓库Actions Secrets中添加名为`SCRAPER_API_KEY`的ScraperAPI密钥。如未配置，工作流仍会尝试直连；若Google拒绝GitHub共享IP，工作流会保留当前引用数据并输出警告，不再以失败状态结束。
     1. 在GitHub仓库的**Actions**页面启用该工作流。它支持手动运行，并会在每天08:17 UTC自动执行，将`gs_data.json`和徽章数据写入`google-scholar-stats`分支。
 1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
 1. 修改主页配置文件[_config.yml](../_config.yml):
