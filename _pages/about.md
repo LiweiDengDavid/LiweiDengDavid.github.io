@@ -88,6 +88,7 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 
 *Under Review:*
 
+- **Liwei Deng**, Jing Jiang, Zhiwei Li<sup>&dagger;</sup>, Yang Wang, Guodong Long. “Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy” [Project](https://liweidengdavid.github.io/SCOPE-Bench/) [PDF](https://arxiv.org/abs/2608.13990) [Code](https://github.com/LiweiDengDavid/SCOPE-Bench)
 - **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
 - **Liwei Deng**\*, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM) [PDF](https://arxiv.org/abs/2604.04475)
 
