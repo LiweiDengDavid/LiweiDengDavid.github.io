@@ -3,8 +3,8 @@ name: Update Google Scholar citations
 on:
   workflow_dispatch:
   schedule:
-    # 08:17 UTC avoids the busiest start-of-hour scheduling window.
-    - cron: "17 8 * * *"
+    # 08:17 UTC every other day to conserve ScraperAPI credits.
+    - cron: "17 8 */2 * *"
   push:
     branches:
       - main
