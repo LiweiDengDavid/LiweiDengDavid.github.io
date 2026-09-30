@@ -30,19 +30,35 @@ My research interests include **Recommendation System** and **Time Series Foreca
 
 # 🔥 News
 
-<details markdown="1">
-<summary><strong>📌 News</strong> (click to expand)</summary>
+<div class="news-ticker" data-news-ticker role="region" aria-label="Latest news" tabindex="0">
+  <div class="news-ticker__track">
+    <ul class="news-ticker__list">
+      <li class="news-ticker__item"><strong class="news-ticker__date">2026.08.28</strong><span>🎉🎉 RuiJun Boss 🐨 and I got together 👫💕.</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2026.04.22</strong><span>🎉🎉 My Google Scholar citations have reached <strong>100</strong>! Thanks to all the researchers for their interest in our work.</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2026.04.08</strong><span>🎉🎉 I was excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2026.01.15</strong><span>🎉🎉 I was granted my student <strong>visa</strong> and will commence my PhD studies at the UTS in April 2026.</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2025.07.01</strong><span>🎉🎉 I graduated from Shenzhen University with an <strong>Honors Degree</strong> and received the <strong>Outstanding Graduate Award</strong>.</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2025.02.22</strong><span>🎉🎉 I received my <strong>first citation</strong> on Google Scholar.</span></li>
+      <li class="news-ticker__item"><strong class="news-ticker__date">2021.09.01</strong><span>🎉🎉 I began my undergraduate studies at Shenzhen University (SZU).</span></li>
+    </ul>
+  </div>
+</div>
 
+<script>
+(function () {
+  var ticker = document.querySelector("[data-news-ticker]");
+  var track = ticker && ticker.querySelector(".news-ticker__track");
+  var list = track && track.querySelector(".news-ticker__list");
+  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-- **2026.08.28** 💕 Boss 🐨 and I started dating.
-- **2026.04.22** 🎉🎉  My Google Scholar citations have reached **100**! Thanks to all the researchers for their interest in our work.
-- **2026.04.08** 🎉🎉  I was excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
-- **2026.01.15** 🎉🎉  I was granted my student **visa** and will commence my PhD studies at the UTS in April 2026.
-- **2025.07.01** 🎉🎉  I graduated from Shenzhen University with an **Honors Degree** and received the **Outstanding Graduate Award**.
-- **2025.02.22** 🎉🎉  I received my **first citation** on Google Scholar.
-- **2021.09.01** 🎉🎉  I began my undergraduate studies at Shenzhen University (SZU).
+  if (!ticker || !track || !list || reduceMotion) return;
 
-</details>
+  var clone = list.cloneNode(true);
+  clone.setAttribute("aria-hidden", "true");
+  track.appendChild(clone);
+  ticker.classList.add("is-animated");
+})();
+</script>
 
 # 📝 Publications 
 
