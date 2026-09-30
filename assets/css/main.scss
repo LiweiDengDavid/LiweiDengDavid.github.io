@@ -92,45 +92,29 @@
     height: 11rem;
     margin: .5rem 0 1.75rem;
     overflow-y: auto;
+    overscroll-behavior: contain;
+    scroll-behavior: smooth;
+    scrollbar-color: rgba(0, 54, 159, .45) transparent;
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+    -webkit-overflow-scrolling: touch;
     border-top: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
     background: linear-gradient(180deg, rgba(0, 54, 159, .035), transparent 32%, transparent 68%, rgba(0, 54, 159, .035));
 
-    &.is-animated {
-        overflow: hidden;
+    &:focus {
+        outline: 2px solid rgba(0, 54, 159, .55);
+        outline-offset: 2px;
     }
 
-    &.is-animated::before,
-    &.is-animated::after {
-        content: "";
-        position: absolute;
-        z-index: 1;
-        right: 0;
-        left: 0;
-        height: 1.25rem;
-        pointer-events: none;
+    &::-webkit-scrollbar {
+        width: .45rem;
     }
 
-    &.is-animated::before {
-        top: 0;
-        background: linear-gradient(to bottom, #fff, rgba(255, 255, 255, 0));
+    &::-webkit-scrollbar-thumb {
+        border-radius: 999px;
+        background: rgba(0, 54, 159, .45);
     }
-
-    &.is-animated::after {
-        bottom: 0;
-        background: linear-gradient(to top, #fff, rgba(255, 255, 255, 0));
-    }
-
-    &:hover .news-ticker__track,
-    &:focus .news-ticker__track,
-    &:focus-within .news-ticker__track {
-        animation-play-state: paused;
-    }
-}
-
-.news-ticker.is-animated .news-ticker__track {
-    animation: news-ticker-scroll 32s linear infinite;
-    will-change: transform;
 }
 
 .news-ticker__list {
@@ -154,15 +138,6 @@
     white-space: nowrap;
 }
 
-@keyframes news-ticker-scroll {
-    from {
-        transform: translateY(0);
-    }
-    to {
-        transform: translateY(-50%);
-    }
-}
-
 @media (max-width: 600px) {
     .news-ticker {
         height: 13rem;
@@ -172,20 +147,6 @@
         grid-template-columns: 1fr;
         gap: .2rem;
         padding: .7rem .75rem;
-    }
-}
-
-@media (prefers-reduced-motion: reduce) {
-    .news-ticker.is-animated {
-        overflow-y: auto;
-    }
-
-    .news-ticker.is-animated .news-ticker__track {
-        animation: none;
-    }
-
-    .news-ticker__list[aria-hidden="true"] {
-        display: none;
     }
 }
 

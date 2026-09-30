@@ -30,7 +30,7 @@ My research interests include **Recommendation System** and **Time Series Foreca
 
 # 🔥 News
 
-<div class="news-ticker" data-news-ticker role="region" aria-label="Latest news" tabindex="0">
+<div class="news-ticker" role="region" aria-label="Latest news" tabindex="0">
   <div class="news-ticker__track">
     <ul class="news-ticker__list">
       <li class="news-ticker__item"><strong class="news-ticker__date">2026.08.28</strong><span>🎉🎉 RuiJun Boss 🐨 and I got together 👫💕.</span></li>
@@ -43,22 +43,6 @@ My research interests include **Recommendation System** and **Time Series Foreca
     </ul>
   </div>
 </div>
-
-<script>
-(function () {
-  var ticker = document.querySelector("[data-news-ticker]");
-  var track = ticker && ticker.querySelector(".news-ticker__track");
-  var list = track && track.querySelector(".news-ticker__list");
-  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-  if (!ticker || !track || !list || reduceMotion) return;
-
-  var clone = list.cloneNode(true);
-  clone.setAttribute("aria-hidden", "true");
-  track.appendChild(clone);
-  ticker.classList.add("is-animated");
-})();
-</script>
 
 # 📝 Publications 
 
