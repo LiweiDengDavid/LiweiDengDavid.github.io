@@ -34,6 +34,7 @@ My research interests include **Recommendation System** and **Time Series Foreca
 <summary><strong>📌 News</strong> (click to expand)</summary>
 
 
+- **2026.08.28** 💕 Boss 🐨 and I started dating.
 - **2026.04.22** 🎉🎉  My Google Scholar citations have reached **100**! Thanks to all the researchers for their interest in our work.
 - **2026.04.08** 🎉🎉  I was excited to join AAII at the UTS as a Ph.D. student! Looking forward to an exciting research journey!
 - **2026.01.15** 🎉🎉  I was granted my student **visa** and will commence my PhD studies at the UTS in April 2026.
