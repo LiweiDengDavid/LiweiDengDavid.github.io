@@ -50,7 +50,7 @@ jobs:
         id: fetch
         shell: bash
         run: |
-          if timeout --signal=TERM --kill-after=15s 180s python google_scholar_crawler/main.py; then
+          if timeout --signal=TERM --kill-after=15s 180s python -u google_scholar_crawler/main.py; then
             echo "updated=true" >> "${GITHUB_OUTPUT}"
           else
             exit_code=$?

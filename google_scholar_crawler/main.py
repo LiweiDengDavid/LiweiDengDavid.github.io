@@ -13,10 +13,10 @@ if not scholar_id:
 scraper_api_key = os.environ.get("SCRAPER_API_KEY", "").strip()
 if scraper_api_key:
     proxy_generator = ProxyGenerator()
-    if not proxy_generator.ScraperAPI(scraper_api_key):
+    if not proxy_generator.ScraperAPI(scraper_api_key, render=True):
         raise RuntimeError("SCRAPER_API_KEY could not initialize ScraperAPI")
     scholarly.use_proxy(proxy_generator, proxy_generator)
-    print("Using ScraperAPI for Google Scholar requests.")
+    print("Using ScraperAPI with JavaScript rendering for Google Scholar requests.")
 
 scholarly.set_timeout(10)
 scholarly.set_retries(2)
