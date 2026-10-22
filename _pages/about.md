@@ -48,6 +48,14 @@ My research interests include **Recommendation System** and **Time Series Foreca
 
 \* equal contribution; <sup>&dagger;</sup> Corresponding author
 
+## Recommender System
+
+*Under Review:*
+
+- **Liwei Deng**, Jing Jiang, Zhiwei Li<sup>&dagger;</sup>, Yang Wang, Guodong Long. “Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy” [Project](https://liweidengdavid.github.io/SCOPE-Bench/) [PDF](https://arxiv.org/abs/2608.13990) [Code](https://github.com/LiweiDengDavid/SCOPE-Bench)
+
+## Intelligent Transportation
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2026</div><img src='./images/papers/STD2Vformer.png' alt="sym" width="600" height="600"></div></div>
 <div class='paper-box-text' markdown="1">
 **Liwei Deng**, Hao Wang<sup>&dagger;</sup>, et al., "STD2Vformer: A Free-Form Spatiotemporal Forecasting Model," published by *IEEE Transactions on Industrial Informatics* (TII) [Project](https://github.com/LiweiDengDavid/STD2Vformer) [PDF](https://ieeexplore.ieee.org/document/11417930)
@@ -89,7 +97,6 @@ Xiaobao Song, **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al. "Deep Learn
 
 *Under Review:*
 
-- **Liwei Deng**, Jing Jiang, Zhiwei Li<sup>&dagger;</sup>, Yang Wang, Guodong Long. “Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy” [Project](https://liweidengdavid.github.io/SCOPE-Bench/) [PDF](https://arxiv.org/abs/2608.13990) [Code](https://github.com/LiweiDengDavid/SCOPE-Bench)
 - **Liwei Deng**\*, Qingxiang Liu<sup>\* &dagger;</sup>, Xinhe Niu, Shengchao Chen, Sheng Sun, Yuankai Wu, Guodong Long, Yuxuan Liang<sup>&dagger;</sup>.“Discrete Prototypical Memories for Federated Time Series Foundation Models” [Project](https://github.com/LiweiDengDavid/FeDPM) [PDF](https://arxiv.org/abs/2604.04475)
 - Xiaobao Song, Dong Wang, **Liwei Deng**, …, Hao Wang<sup>&dagger;</sup>. “PISDNet: Prototype-Informed State Decoupling Network for Inductive Spatio-Temporal Forecasting With Dynamic Unobserved Nodes” under review at *IEEE Transactions on Industrial Informatics* (TII).
 - **Liwei Deng**, Hao Wang<sup>&dagger;</sup> and et al.“Patch Attention Based Adaptive Multihead Graph Convolutional Networks for Traffic Flow Forecasting” submitted to *IEEE Transactions on Artificial Intelligence* (TAI) [Project](https://github.com/LiweiDengDavid/PA2MGCN)
